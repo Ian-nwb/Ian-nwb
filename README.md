@@ -39,7 +39,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🛠️ Skills & Tools
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,c++" alt="Languages" />
     
   
 
