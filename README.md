@@ -44,7 +44,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   
 
   <!-- Frameworks & Frontend -->
-  <img src="https://skillicons.dev/icons?i=fastify,actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,mongodb,mysql,postgres,redis" alt="Frameworks & DBs" />
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,mongodb,mysql,postgres,redis" alt="Frameworks & DBs" />
     
   
 
