@@ -23,8 +23,15 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Testing** | `Postman`, `OWASP ZAP` |
 
 ---
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
+    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ian-nwb&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
+---
 ### 📬 Connect with Me
 - 🌏 [Website](https://centaim.com)
 - 📧 [Email](mailto:kennethsianghio756@gmail.com)
