@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ian 👋
 
-<!--
-**Ian-nwb/Ian-nwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems and exploring high-performance runtimes.
 
-Here are some ideas to get you started:
+- 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
+- 📱 Building cross-platform mobile experiences with **Flutter**.
+- 🐳 Deep diving into **Docker** and Linux-based server environments.
+- 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP` |
+| **Frontend** | `React`, `Next.js`, `Flutter` |
+| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `MERN`, `PERN` ,`Laravel` |
+| **Runtimes** | `Bun.js`, `Node.js` |
+| **Databases** | `MySQL`, `MongoDB`, `PostgreSQL` |
+| **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx` |
+| **Testing** | `Postman`, `OWASP ZAP` |
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lan-nwb&show_icons=true&theme=tokyonight" alt="Ian's Stats" />
+</p>
+
+---
+
+### 📬 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ian-kenneth-sianghio-601909325)
+- 📧 [Email](mailto:kennethsianghio756@gmail.com)
+
+### 🛠️ Skills & Tools
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php" alt="Languages" />
+  <br><br>
+  <!-- Frameworks & Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,express,mongodb,mysql,postgres" alt="Frameworks & DBs" />
+  <br><br>
+  <!-- Runtimes & Tools -->
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,docker,linux,git,nginx,postman" alt="Runtimes & Tools" />
+</p>
