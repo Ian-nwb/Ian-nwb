@@ -14,7 +14,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP` |
+| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++` |
 | **Frontend** | `React`, `Next.js`, `Flutter` ,`Tailwind`, `MUI`|
 | **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `MERN`, `PERN` ,`Laravel` |
 | **Runtimes** | `Bun.js`, `Node.js` |
@@ -39,7 +39,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🛠️ Skills & Tools
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,c++" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,cpp" alt="Languages" />
     
   
 
