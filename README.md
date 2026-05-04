@@ -40,10 +40,15 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php" alt="Languages" />
-  <br><br>
-<!-- Frameworks & Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,materialui,laravel,express,mongodb,mysql,postgres" alt="Frameworks & DBs" />
-  <br><br>
+    
+  
+
+  <!-- Frameworks & Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,mongodb,mysql,postgres" alt="Frameworks & DBs" />
+    
+  
+
   <!-- Runtimes & Tools -->
   <img src="https://skillicons.dev/icons?i=bun,nodejs,docker,linux,git,nginx,postman" alt="Runtimes & Tools" />
 </p>
+
