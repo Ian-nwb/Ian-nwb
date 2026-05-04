@@ -18,7 +18,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Frontend** | `React`, `Next.js`, `Flutter` ,`Tailwind`, `MUI`|
 | **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `MERN`, `PERN` ,`Laravel` |
 | **Runtimes** | `Bun.js`, `Node.js` |
-| **Databases** | `MySQL`, `MongoDB`, `PostgreSQL` |
+| **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx` |
 | **Testing** | `Postman`, `OWASP ZAP` |
 
@@ -44,7 +44,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   
 
   <!-- Frameworks & Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,mongodb,mysql,postgres" alt="Frameworks & DBs" />
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,mongodb,mysql,postgres,redis" alt="Frameworks & DBs" />
     
   
 
