@@ -26,12 +26,15 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lan-nwb&show_icons=true&theme=tokyonight" alt="Ian's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lan-nwb&show_icons=true&theme=tokyonight" alt="Ian's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lan-nwb&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 ---
 
 ### 📬 Connect with Me
+- 🌏 [Website](https://centaim.com)
+- 📧 [Email](mailto:kennethsianghio756@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ian-kenneth-sianghio-601909325)
 - 📧 [Email](mailto:kennethsianghio756@gmail.com)
 
