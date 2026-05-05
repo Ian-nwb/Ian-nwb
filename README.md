@@ -1,7 +1,6 @@
 <!-- KAWAII SVG BANNER -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Homelabbing+%F0%9F%A0%8B;Caffeine+Enjoyer+%E2%98%95;Gacha Gamer%F0%9F%8E%AE" alt="Typing SVG" />
-
 </div>
 
 ---
