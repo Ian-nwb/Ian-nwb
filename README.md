@@ -1,4 +1,4 @@
-# Hi, I'm Ian 👋
+# Hi, I'm Ian 👋 <img src="https://media.tenor.com/3eFRDJFjvGIAAAAi/cinnamoroll-cute.gif" width="80px" align="right" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb&color=blueviolet&style=for-the-badge)
 
