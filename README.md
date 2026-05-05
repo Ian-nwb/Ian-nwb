@@ -1,10 +1,18 @@
-# Hi, I'm Ian 👋
+# Hi, I'm Ian 👋 <img src="https://media.tenor.com/mCd7GXvyDmAAAAAi/cinnamoroll-sanrio.gif" width="80px" align="right" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb&color=blueviolet&style=for-the-badge)
+
 ### 🚀 About Me
 I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
 - 📱 Building cross-platform mobile experiences with **Flutter**.
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
 - 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
+
+---
+### 🎵 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&redirect=true)
+
 ---
 ### 💻 Tech Stack
 | Category | Tools & Languages |
@@ -18,12 +26,12 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Testing** | `Postman`, `OWASP ZAP` |
 | **Design & Diagramming** | `Figma`, `Draw.io` |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
+
 ---
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
-
 
 ---
 ### 📬 Connect with Me
@@ -41,6 +49,4 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   
   <!-- Runtimes & Tools -->
   <img src="https://skillicons.dev/icons?i=bun,nodejs,docker,linux,git,nginx,postman,vercel,figma,wordpress" alt="Runtimes & Tools" />
-
-
 </p>
