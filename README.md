@@ -1,14 +1,6 @@
 <!-- KAWAII SVG BANNER -->
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  ✿ ılı.lıllılı.ıllı.   hi, i'm ian!   .ıllı.lıllılı.ıllı ✿  ║
-║        ☁️  backend dev  •  homelabber  •  caffeine enjoyer ☁️       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Homelabbing+Enthusiast+%F0%9F%A4%8D;Go+%7C+Rust+%7C+TypeScript+Enjoyer+%E2%9C%A8;Docker+%26+Linux+Nerd+%F0%9F%90%B3;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Flutter+%26+Mobile+Builder+%F0%9F%93%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Homelabbing+%F0%9F%A0%8B;Caffeine+Enjoyer+%E2%98%95;Gacha Gamer%F0%9F%8E%AE" alt="Typing SVG" />
 
 </div>
 
