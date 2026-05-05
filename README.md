@@ -67,4 +67,12 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ---
 
 ### 🎵 Now Playing
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&redirect=true)
+ 
+</div>
+---
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B8FEF&height=120&section=footer&text=thanks+for+visiting+✿&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" />
+</div>
