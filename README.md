@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://media.tenor.com/mCd7GXvyDmAAAAAi/cinnamoroll-sanrio.gif" width="100px" />
-  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAi/sanrio-cinnamoroll.gif" width="100px" />
-  <img src="https://media.tenor.com/R5OmcG7EBPMAAAAi/cinnamoroll-sanrio.gif" width="100px" />
-</div>
-
 # Hi, I'm Ian 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb&color=blueviolet&style=for-the-badge)
