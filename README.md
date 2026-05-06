@@ -22,14 +22,15 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 💻 Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++`,`bash` |
+| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++`,`bash`, `Dart` ,`SQL`, `Kotlin` |
 | **Frontend** | `React`, `Next.js`, `Flutter`, `Tailwind`, `MUI` |
-| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `MERN`, `PERN`, `Laravel` |
-| **Runtimes** | `Bun.js`, `Node.js` |
+| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel` ,`Fastify` ,`NestJS`|
+| **Runtimes** | `Bun.js`, `Node.js` , `ASP.NET Core`|
 | **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Vercel` |
+| **Architecture** | `Monorepos`, `RESTful APIs` |
 | **Testing** | `Postman`, `OWASP ZAP` |
-| **Design & Diagramming** | `Figma`, `Draw.io` |
+| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`  |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
 
 ---
@@ -50,9 +51,9 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ### 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,cpp,bash" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,mongodb,mysql,postgres,redis" alt="Frameworks & DBs" />
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,docker,linux,git,nginx,postman,vercel,figma,wordpress" alt="Runtimes & Tools" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,cpp,bash,kotlin,dart" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,fastify,nestjs,mongodb,mysql,postgres,redis" alt="Frameworks & DBs" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,canva,photoshop" alt="Runtimes & Tools" />
 </p>
 
 ---
