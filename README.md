@@ -1,7 +1,7 @@
 ---
 
 
-# Hi, I'm Ian 👋 <div align="right"><img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" /> <img src="https://clipart-library.com/8300/2368/cinnamoroll.gif" width="80px" /></div>
+# Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" />
 ![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb&color=blueviolet&style=for-the-badge)
 
 <div align="center">
