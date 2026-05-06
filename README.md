@@ -52,7 +52,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🛠️ Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,cpp,bash,kotlin,dart" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,fastify,nestjs,mongodb,mysql,postgres,redis" alt="Frameworks & DBs" />
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,fastify,nestjs,mysql,mongodb,postgres,redis" alt="Frameworks & DBs" />
   <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,canva,photoshop" alt="Runtimes & Tools" />
 </p>
 
