@@ -40,9 +40,9 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<p>
-  [![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+---
+[![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
