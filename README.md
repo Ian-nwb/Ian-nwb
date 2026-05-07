@@ -24,7 +24,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | :--- | :--- |
 | **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++`,`bash`, `Dart` ,`SQL`, `Kotlin` |
 | **Frontend** | `React`, `Next.js`, `Flutter`, `Tailwind`, `MUI` |
-| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel` ,`Fastify` ,`NestJS`|
+| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel` ,`Fastify` ,`NestJS`,`ASP.NET`,`Blazor`|
 | **Runtimes** | `Bun.js`, `Node.js` , `ASP.NET Core`|
 | **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Vercel` |
