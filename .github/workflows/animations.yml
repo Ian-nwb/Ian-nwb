@@ -33,4 +33,28 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # 3. Cinnamoroll Progress Bar
+      - name: Generate Cinnamoroll Progress
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue,pr
 
+      # 4. Cute Anime Metrics
+      - name: Metrics Embed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community
+          config_octicon: yes
+          config_timezone: Asia/Manila
+          plugin_anilist: yes
+          plugin_anilist_limit: 2
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: watching
