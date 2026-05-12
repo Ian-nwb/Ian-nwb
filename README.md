@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinnamoroll.png" alt="cinnamoroll banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinna-black.png" alt="cinnamoroll banner" width="100%" />
 </div>
 
 # Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" align="right" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" align="right" />
