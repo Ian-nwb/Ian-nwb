@@ -1,19 +1,19 @@
 ---
-
-# Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" align="right" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" align="right" />
-![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb-1&color=blueviolet&style=for-the-badge)
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Developer+%F0%9F%9A%80;Homelabbing+%F0%9F%A0%8B;Caffeine+Enjoyer+%E2%98%95;Gacha+Gamer+%F0%9F%8E%AE" alt="Typing SVG" />
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinna-black.png" alt="cinnamoroll banner" width="100%" />
 </div>
 
 ---
+# Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" align="right" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" align="right" />
+![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb-1&color=blueviolet&style=for-the-badge)
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Homelabbing+%F0%9F%A0%8B;Caffeine+Enjoyer+%E2%98%95;Gacha+Gamer+%F0%9F%8E%AE" alt="Typing SVG" />
+</div>
+
+---
+
+
 ### 🚀 About Me
 I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
