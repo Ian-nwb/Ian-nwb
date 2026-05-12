@@ -105,7 +105,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ---
 <div align="center">
-  <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="50px" />
+  <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="500px" />
 </div>
 
 <div align="center">
