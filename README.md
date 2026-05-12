@@ -32,7 +32,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Runtimes** | `Bun.js`, `Node.js` , `ASP.NET Core`|
 | **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Vercel` |
-| **Architecture** | `Monorepos`, `RESTful APIs` |
+| **Architecture** | `Monorepos`, `RESTful APIs` `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`  |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
