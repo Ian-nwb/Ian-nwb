@@ -95,10 +95,6 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ---
 
-### 🎮 3D Contribution Graph
-![3D Contributions](./profile-3d-contrib/profile-gitblock.svg)
-
----
 ### 🎵 Now Playing
 
 <div align="center">
