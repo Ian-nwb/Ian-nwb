@@ -94,6 +94,9 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ---
 
+<img src="./metrics.plugin.activity.svg" alt="Activity Metrics" />
+
+---
 ### 🎵 Now Playing
 
 <div align="center">
