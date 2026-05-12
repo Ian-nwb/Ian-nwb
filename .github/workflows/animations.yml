@@ -2,7 +2,7 @@ name: Generate Profile Animations
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,24 +13,58 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      # 1. Generate Snake Animation
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 1. Snake
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      # 2. Generate Pac-Man Animation
+      # 2. Pac-Man
       - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # 3. Push all generated files to the output branch
+      # 3. 3D Calendar
+      - name: Generate 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 4. Achievements
+      - name: Generate Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+      # 5. Solar System (RepoVerse)
+      - name: Generate Solar System
+        uses: m-abdullah-06/RepoVerse@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # 6. Organize files into dist folder
+      - name: Organize files
+        run: |
+          mkdir -p dist/3d
+          cp -r profile-3d-contrib/* dist/3d/
+          # RepoVerse generates 'repo-verse.svg' in the root by default
+          if [ -f repo-verse.svg ]; then cp repo-verse.svg dist/; fi
+
+      # 7. Push everything to 'output' branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -38,19 +72,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      - name: Generate Solar System
-        uses: mabdullah06/solar-system-action@v1.0.4
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-
-      - name: Generate 3D Contrib
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-
