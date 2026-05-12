@@ -83,7 +83,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ---
 
-### 🟡 Pac-Man Contribution Graph
+### 🟡 Contribution Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
@@ -91,10 +91,6 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
 </picture>
 
-
----
-
-<img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/repo-verse.svg" alt="Solar System" width="100%" />
 
 ---
 
