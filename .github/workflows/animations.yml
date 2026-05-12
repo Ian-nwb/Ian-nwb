@@ -38,3 +38,19 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+      - name: Generate Solar System
+        uses: mabdullah06/solar-system-action@v1.0.4
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+
+      - name: Generate 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+
