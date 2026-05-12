@@ -76,19 +76,21 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 ---
 
 ### 🟡 Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
   <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
 </picture>
+
 
 ---
 
