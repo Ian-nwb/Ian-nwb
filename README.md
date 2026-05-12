@@ -1,5 +1,8 @@
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinnamoroll-banner.png" alt="cinnamoroll banner" width="100%" />
+</div>
 
 # Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" align="right" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" align="right" />
 ![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb-1&color=blueviolet&style=for-the-badge)
@@ -41,8 +44,15 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 </p>
 
 ---
-[![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
+### ⏱️ WakaTime Coding Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ian-nwb&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</p>
+
+---
+
+[![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -68,6 +78,16 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 🟡 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-grid.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-grid.svg" />
 </picture>
 
 ---
