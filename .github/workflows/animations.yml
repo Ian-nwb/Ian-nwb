@@ -13,6 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    environment: production  # ← ADD THIS
     timeout-minutes: 20
     steps:
       - name: Checkout
@@ -37,8 +38,8 @@ jobs:
       - name: Generate Cinnamoroll Progress
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.activity.svg
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
@@ -49,8 +50,8 @@ jobs:
       - name: Metrics Embed
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
           base: header, activity, community
           config_octicon: yes
           config_timezone: Asia/Manila
