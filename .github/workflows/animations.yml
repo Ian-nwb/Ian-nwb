@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    environment: production  # ← ADD THIS
+    environment: production
     timeout-minutes: 20
     steps:
       - name: Checkout
@@ -40,10 +40,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.activity.svg
-          base: ""
+          base: "activity"
+          template: "classic"
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: issue,pr
-
-    
