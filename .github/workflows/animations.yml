@@ -34,15 +34,17 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # 3. Cinnamoroll Progress Bar (Activity Only)
+    # 3. Cinnamoroll Progress Bar (Recent Activity)
       - name: Generate Cinnamoroll Progress
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.activity.svg
-          base: "activity"
-          template: "classic"
+          base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: issue,pr
+          plugin_activity_timestamp: yes
+          plugin_activity_display: full
+          commit: yes
