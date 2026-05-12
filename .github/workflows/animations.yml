@@ -34,9 +34,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-   # 3. 3D Contributions (Fixed)
+   # 3. 3D Contributions
       - name: Generate 3D Contributions
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
