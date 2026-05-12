@@ -1,4 +1,5 @@
 name: Generate Pac-Man Animation
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -6,6 +7,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     permissions:
@@ -14,12 +16,12 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Generate Pac-Man
-        uses: Platane/snk/svg-only@v3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-grid.svg?type=pacman
-            dist/pacman-contribution-grid-dark.svg?type=pacman&palette=github-dark
+          # This action generates files in the 'dist' folder by default
+          # It will create: pacman-contribution-graph.svg and pacman-contribution-graph-dark.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
