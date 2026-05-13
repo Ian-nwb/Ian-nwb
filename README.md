@@ -46,13 +46,6 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ---
 
-### ⏱️ WakaTime Coding Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ian-nwb&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</p>
-
----
-
 [![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
