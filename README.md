@@ -1,20 +1,21 @@
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinna-black.png" alt="cinnamoroll banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinna-black.png" alt="cinnamoroll banner" width="100%" />
 </div>
 
 ---
 # Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" align="right" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" align="right" />
-![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb-2&color=blueviolet&style=for-the-badge)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Backend+Developer+⚙️;Homelabbing+🐳;Caffeine+Enjoyer+☕;Gacha+Gamer+🎮" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B8FEF&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Homelabbing+%F0%9F%A0%8B;Caffeine+Enjoyer+%E2%98%95;Gacha+Gamer+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
 ---
 
+
 ### 🚀 About Me
-I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes, and providing optimized templates/boilerplates for small-scale projects.
+I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
 - 📱 Building cross-platform mobile experiences with **Flutter**.
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
@@ -31,16 +32,16 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Runtimes** | `Bun.js`, `Node.js` , `ASP.NET Core`|
 | **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Vercel` |
-| **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
+| **Architecture** | `Monorepos`, `RESTful APIs` `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP` |
-| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`  |
+| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`  |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -58,9 +59,9 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ### 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,cpp,bash,kotlin,dart" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,nestjs,mysql,mongodb,postgres,redis" alt="Frameworks & DBs" />
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,photoshop" alt="Runtimes & Tools"/>
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,py,js,ts,html,css,php,java,cpp,bash,kotlin,dart" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,materialui,elysia,laravel,express,nestjs,mysql,mongodb,postgres,redis" alt="Frameworks & DBs" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,photoshop" alt="Runtimes & Tools"/>
 </p>
 
 ---
@@ -68,36 +69,38 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
 </picture>
+
 
 ---
 
 ### 🟡 Contribution Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
 </picture>
+
 
 ---
 
 ### 🎵 Now Playing
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing" />
-  </a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
 <div align="center">
-  <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="800px" />
+  <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="800px" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B8FEF&height=120&section=footer&text=✿+thanks+for+visiting+✿&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9B8FEF&height=120&section=footer&text=✿+thanks+for+visiting+✿&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" />
 </div>
