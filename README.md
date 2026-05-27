@@ -95,6 +95,12 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify Now Playing" />
   </a>
 </div>
+---
+
+### 💬 Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 ---
 <div align="center">
