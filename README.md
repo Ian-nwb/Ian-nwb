@@ -96,6 +96,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   </a>
 </div>
 
+---
 
 ### 💬 Dev Quote
 <div align="center">
