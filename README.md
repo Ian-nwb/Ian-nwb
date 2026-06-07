@@ -1,3 +1,4 @@
+nireject ako ni trisha neverio sadge
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/main/assets/cinna-black.png" alt="cinnamoroll banner" width="100%" />
