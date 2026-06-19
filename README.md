@@ -26,7 +26,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 💻 Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++`,`bash`, `Dart` ,`SQL`, `Kotlin` |
+| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++`,`bash`, `Dart` ,`SQL`, `Kotlin`, `C` |
 | **Frontend** | `React`, `Next.js`, `Flutter`, `Tailwind`, `MUI`,`Ionic` |
 | **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel` ,`Fastify` ,`NestJS`,`ASP.NET`,`Blazor`|
 | **Runtimes** | `Bun.js`, `Node.js` , `ASP.NET Core`|
