@@ -49,6 +49,13 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 [![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ian-nwb&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
 
 ### 📬 Connect with Me
 - 🌏 [Website](https://centaim.com)
