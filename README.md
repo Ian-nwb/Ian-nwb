@@ -25,16 +25,16 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 💻 Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`,`PHP`,`Java`,`C++`,`bash`, `Dart` ,`SQL`, `Kotlin`, `C` |
-| **Frontend** | `React`, `Next.js`, `Flutter`, `Tailwind`, `MUI`,`Ionic` |
-| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel` ,`Fastify` ,`NestJS`,`ASP.NET`,`Blazor`|
-| **Runtimes** | `Bun.js`, `Node.js` , `ASP.NET Core`|
+| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `bash`, `Dart`, `SQL`, `Kotlin`, `C` |
+| **Frontend** | `React`, `Next.js`, `Flutter`, `Tailwind`, `MUI`, `Ionic` |
+| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel`, `Fastify`, `NestJS`, `ASP.NET`, `Blazor` |
+| **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
 | **Real-Time & Queues** | `Socket.IO`, `BullMQ`, `Redis Pub/Sub` |
 | **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Vercel` |
-| **Architecture** | `Monorepos`, `RESTful APIs` `GraphQL` |
+| **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP` |
-| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`  |
+| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop` |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
 
 ---
@@ -58,10 +58,25 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ---
 
 ### 🛠️ Skills & Tools
+
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,cs,python,js,ts,html,css,php,java,cpp,bash,kotlin,dart" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,mui,elysia,laravel,express,nestjs,socketio,mysql,mongodb,postgres,redis" alt="Frameworks & DBs" />
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,ps" alt="Runtimes & Tools"/>
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,python,js,ts,html,css,php,java,cpp,bash,kotlin,dart&perline=14" />
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,mui,elysia,laravel,express,nestjs,fastapi,graphql,ionic&perline=14" />
+</p>
+
+**Databases & Real-Time**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,sqlite&perline=14" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,ps&perline=14" />
 </p>
 
 ---
@@ -74,7 +89,6 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 ---
 
 ### 🟡 Contribution Pac-Man
@@ -84,7 +98,6 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
   <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
 </picture>
-
 
 ---
 
@@ -104,6 +117,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 </div>
 
 ---
+
 <div align="center">
   <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="800px" />
 </div>
