@@ -86,7 +86,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,mui,elysia,laravel,express,nestjs,fastapi,graphql,ionic&perline=14" />
+  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,mui,elysia,laravel,express,nestjs,fastapi,graphql,ionic,blazor&perline=14" />
 </p>
 
 **Databases & Real-Time**
@@ -101,7 +101,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **Runtimes & Backend Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,postman&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,postman,aspnet&perline=14" />
 </p>
 
 **Creative & Design Tools**
