@@ -46,8 +46,13 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ian-nwb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-nwb&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -95,6 +100,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 </p>
 
 ---
+
 ### 🐍 Contribution Snake
 
 <picture>
@@ -112,6 +118,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
   <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
 </picture>
+
 ---
 
 ### 🎵 Now Playing
