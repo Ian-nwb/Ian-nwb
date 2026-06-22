@@ -95,13 +95,12 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 </p>
 
 ---
-
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -109,11 +108,10 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🟡 Contribution Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/pacman.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
 </picture>
-
 ---
 
 ### 🎵 Now Playing
