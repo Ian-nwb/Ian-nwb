@@ -3,7 +3,9 @@
 </div>
 
 ---
+
 # Hi, I'm Ian 👋 <img src="https://media.tenor.com/qslUlaGUdEwAAAAj/cinnamoroll-cute.gif" width="80px" align="right" /> <img src="https://64.media.tumblr.com/d9b58cd4a8e232c1dc0d0c28609f2f19/267b71a0de4b8d04-3a/s400x600/1c341447be6a0c36dd6e8088627096c04595223d.gif" width="80px" align="right" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ian-nwb69&color=blueviolet&style=for-the-badge)
 
 <div align="center">
@@ -13,7 +15,9 @@
 ---
 
 ### 🚀 About Me
+
 I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
+
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
 - ⚡ Building real-time backends with **Socket.IO**, clustered Node.js, and Redis-backed pub/sub.
 - 📱 Building cross-platform mobile experiences with **Flutter**.
@@ -23,6 +27,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ---
 
 ### 💻 Tech Stack
+
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `bash`, `Dart`, `SQL`, `Kotlin`, `C` |
@@ -40,6 +45,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ian-nwb&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
@@ -49,6 +55,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 [![github-trophy](https://github-trophy.vercel.app/?username=Ian-nwb&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
 ### 📈 Activity Graph
 
 <p align="center">
@@ -58,6 +65,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ---
 
 ### 📬 Connect with Me
+
 - 🌏 [Website](https://centaim.com)
 - 📧 [Email](mailto:kennethsianghio756@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ian-kenneth-sianghio-601909325)
@@ -91,9 +99,9 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/snake.svg" />
 </picture>
 
 ---
@@ -101,10 +109,18 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ### 🟡 Contribution Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/pacman.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/pacman.svg" />
 </picture>
+
+---
+
+### 🗺️ 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/dist/3d-contrib.svg" alt="3D Contribution Graph" />
+</p>
 
 ---
 
@@ -119,6 +135,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 ---
 
 ### 💬 Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
