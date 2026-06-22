@@ -96,7 +96,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **DevOps & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,apache,vercel&perline=14" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,vercel&perline=14" />
 </p>
 
 **Runtimes & Backend Tools**
@@ -106,7 +106,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **Creative & Design Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,krita,wordpress,blender&perline=14" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,wordpress,blender&perline=14" />
 </p>
 
 ---
