@@ -36,10 +36,10 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
 | **Real-Time & Queues** | `Socket.IO`, `BullMQ`, `Redis Pub/Sub` |
 | **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
-| **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Vercel` |
+| **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP` |
-| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop` |
+| **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
 
 ---
@@ -94,9 +94,19 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,sqlite&perline=14" />
 </p>
 
-**DevOps & Tools**
+**DevOps & Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,docker,linux,git,nginx,postman,vercel,figma,wordpress,ps&perline=14" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,apache,vercel&perline=14" />
+</p>
+
+**Runtimes & Backend Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,postman&perline=14" />
+</p>
+
+**Creative & Design Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,krita,wordpress,blender&perline=14" />
 </p>
 
 ---
