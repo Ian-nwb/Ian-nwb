@@ -38,7 +38,18 @@ jobs:
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark
 
-      # 3. Commit & push all generated files
+      # 3. 3D Contribution Graph
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          BACKGROUND_COLOR: "#0d1117"
+          FOREGROUND_COLOR: "#9B8FEF"
+        with:
+          outputs: dist/3d-contrib.svg
+
+      # 4. Commit & push all generated files
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
