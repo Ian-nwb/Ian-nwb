@@ -1,5 +1,4 @@
 name: Generate Profile Animations
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,7 +6,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     permissions:
@@ -15,11 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     timeout-minutes: 20
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@v3
       # 1. Snake
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -28,31 +24,8 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-
       # 2. Pac-Man
       - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark
-
-      # 3. 3D Contribution Graph
-      - name: Generate 3D Contribution
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          BACKGROUND_COLOR: "#0d1117"
-          FOREGROUND_COLOR: "#9B8FEF"
-        with:
-          outputs: dist/3d-contrib.svg
-
-      # 4. Commit & push all generated files
-      - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update profile animations [skip ci]"
-          branch: main
-          file_pattern: dist/
