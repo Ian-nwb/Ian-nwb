@@ -36,7 +36,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
-| **Testing** | `Postman`, `OWASP ZAP` |
+| **Testing** | `Postman`, `OWASP ZAP`, `Jest`, `Vitest`, `Playwright`, `Supertest`, `React Testing Library`, `Cypress` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
 
