@@ -28,10 +28,10 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `Bash`, `Dart`, `SQL`, `Kotlin`, `C` |
-| **Full Stack** | `Next.js`, `Blazor`, `Laravel`, `ASP.NET` |
+| **Full Stack** | `Next.js`,`Laravel`, `ASP.NET` |
 | **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` |
-| **Backend** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Fastify`, `NestJS` |
-| **Libraries** | `Socket.IO`, `BullMQ`, `Redis Pub/Sub` |
+| **Backend** | `Elysia`, `Fiber`, `Express` |
+| **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`|
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel` |
@@ -39,6 +39,16 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Testing** | `Postman`, `OWASP ZAP` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
+
+### 🗺️ Planning To Learn
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Zig`, `Elixir`,  `Ruby`,`NestJS`,`Actix-Web`,|
+| **Full Stack** | `SvelteKit``Blazor`,`Django` |
+| **Backend** | `Hono`, `Gin`, `SpringBoot`,`Fastify`,`Flask`,`FastAPI` |
+| **Libraries & ORMs** | `tRPC`, `Drizzle` , `BullMQ`, `Redis Pub/Sub` |
+| **Runtimes** | `Deno` |
+| **Desktop** | `Tauri` |
 
 ### 📊 GitHub Stats
 
