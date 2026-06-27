@@ -24,25 +24,21 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
 - 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
 
----
-
 ### 💻 Tech Stack
-
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `bash`, `Dart`, `SQL`, `Kotlin`, `C` |
-| **Frontend** | `React`, `Next.js`, `Flutter`, `Tailwind`, `MUI`, `Ionic` |
-| **Frameworks** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Laravel`, `Fastify`, `NestJS`, `ASP.NET`, `Blazor` |
+| **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `Bash`, `Dart`, `SQL`, `Kotlin`, `C` |
+| **Full Stack** | `Next.js`, `Blazor`, `Laravel`, `ASP.NET` |
+| **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` |
+| **Backend** | `Elysia`, `Actix-Web`, `Fiber`, `Express`, `Fastify`, `NestJS` |
+| **Libraries** | `Socket.IO`, `BullMQ`, `Redis Pub/Sub` |
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
-| **Real-Time & Queues** | `Socket.IO`, `BullMQ`, `Redis Pub/Sub` |
-| **Databases and Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
+| **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
 | **CMS & Site Builders** | `WordPress`, `Wix` |
-
----
 
 ### 📊 GitHub Stats
 
