@@ -50,6 +50,8 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Runtimes** | `Deno` |
 | **Desktop** | `Tauri` |
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
