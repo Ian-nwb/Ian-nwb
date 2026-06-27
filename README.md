@@ -112,7 +112,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **Creative & Design Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,wordpress,blender&perline=14" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,wordpress&perline=14" />
 </p>
 
 ---
