@@ -119,12 +119,12 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **DevOps & OS**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,apache,vercel&perline=14" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,vercel&perline=14" />
 </p>
 
 **Testing**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,jest,vitest,playwright,cypress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=postman,jest,vitest,cypress&perline=14" />
 </p>
 
 **Design & Diagramming**
