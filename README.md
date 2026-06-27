@@ -31,7 +31,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Full Stack** | `Next.js`,`Laravel`, `ASP.NET` |
 | **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` |
 | **Backend** | `Elysia`, `Fiber`, `Express` |
-| **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`|
+| **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel` |
