@@ -44,7 +44,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | `Zig`, `Elixir`,  `Ruby`,`NestJS`,`Actix-Web`,|
-| **Full Stack** | `SvelteKit``Blazor`,`Django` |
+| **Full Stack** | `SvelteKit`,`Blazor`,`Django` |
 | **Backend** | `Hono`, `Gin`, `SpringBoot`,`Fastify`,`Flask`,`FastAPI` |
 | **Libraries & ORMs** | `tRPC`, `Drizzle` , `BullMQ`, `Redis Pub/Sub` |
 | **Runtimes** | `Deno` |
