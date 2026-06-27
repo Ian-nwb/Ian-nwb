@@ -89,7 +89,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **Full Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,blazor,laravel,dotnet&perline=14" />
+  <img src="https://skillicons.dev/icons?i=nextjs,laravel,dotnet&perline=14" />
 </p>
 
 **Frontend**
@@ -99,12 +99,12 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=actix,elysia,express,fastify,nestjs&perline=14" />
+  <img src="https://skillicons.dev/icons?i=actix,elysia,express,nestjs&perline=14" />
 </p>
 
 **Libraries & ORMs**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=socketio,prisma,graphql,mongodb&perline=14" />
+  <img src="https://skillicons.dev/icons?i=prisma,graphql,mongodb&perline=14" />
 </p>
 
 **Runtimes**
