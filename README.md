@@ -82,27 +82,61 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ian-kenneth-sianghio-601909325)
 
 ---
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,rust,cs,python,js,ts,html,css,php,java,cpp,bash,kotlin,dart&perline=14" />
+</p>
 
-**Frameworks & Libraries**
+**Full Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=actix,react,nextjs,flutter,tailwind,mui,elysia,laravel,express,nestjs,fastapi,graphql,ionic,blazor&perline=14" />
+  <img src="https://skillicons.dev/icons?i=nextjs,blazor,laravel,dotnet&perline=14" />
 </p>
-**Databases & Real-Time**
+
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,sqlite&perline=14" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,mui,ionic&perline=14" />
 </p>
-**DevOps & Infrastructure**
+
+**Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,vercel&perline=14" />
+  <img src="https://skillicons.dev/icons?i=actix,elysia,express,fastify,nestjs&perline=14" />
 </p>
-**Runtimes & Backend Tools**
+
+**Libraries & ORMs**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet,postman,aspnet&perline=14" />
+  <img src="https://skillicons.dev/icons?i=socketio,prisma,graphql,mongodb&perline=14" />
 </p>
-**Creative & Design Tools**
+
+**Runtimes**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,wordpress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,dotnet&perline=14" />
 </p>
+
+**Databases & Caching**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=14" />
+</p>
+
+**DevOps & OS**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx,apache,vercel&perline=14" />
+</p>
+
+**Testing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,jest,vitest,playwright,cypress&perline=14" />
+</p>
+
+**Design & Diagramming**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,krita,canva&perline=14" />
+</p>
+
+**CMS & Site Builders**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress&perline=14" />
+</p>
+
 ---
 ### 🐍 Contribution Snake
 
