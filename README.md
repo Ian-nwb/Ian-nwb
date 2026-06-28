@@ -33,7 +33,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 | **Backend** | `Elysia`, `Fiber`, `Express` |
 | **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
-| **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` |
+| **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` ,`Valkey`|
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP`, `Jest`, `Vitest`, `Playwright`, `Supertest`, `React Testing Library`, `Cypress` |
