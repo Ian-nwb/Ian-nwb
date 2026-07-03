@@ -148,6 +148,17 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ian-nwb/Ian-nwb/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
+---
+
+### ⚽ Stat Card
+
+<div align="center">
+  <a href="https://gitfut.com/Ian-nwb">
+    <img src="https://gitfut.com/Ian-nwb.png" alt="My GitFut card" />
+  </a>
+</div>
+
 ---
 
 ### 🟡 Contribution Pac-Man
