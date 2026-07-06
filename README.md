@@ -24,7 +24,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
 - 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
 
-My resume ➡️ https://ian-tree.vercel.app/
+Resume and Projects ➡️ https://ian-tree.vercel.app/
 
 ### 💻 Tech Stack
 | Category | Tools & Languages |
