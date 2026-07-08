@@ -23,6 +23,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 - 📱 Building cross-platform mobile experiences with **Flutter**.
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
 - 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
+- 💻 Currently fixing a homelab.
 
 Resume and Projects ➡️ https://ian-tree.vercel.app/
 
