@@ -151,7 +151,7 @@ Homelab ➡️ [COMING SOON] (currently broken)
 
 <div align="center">
   <a href="https://gitfut.com/Ian-nwb">
-    <img src="https://gitfut.com/Ian-nwb.png" alt="My GitFut card" />
+    <img src="https://gitfut.com/Ian-nwb.png" alt="My GitFut Stat card" />
   </a>
 </div>
 
