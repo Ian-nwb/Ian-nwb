@@ -20,7 +20,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
 - ⚡ Building real-time backends with **Socket.IO**, clustered Node.js, and Redis-backed pub/sub.
-- 📱 Building cross-platform mobile experiences with **Flutter**.
+- 📱  Building cross-platform mobile experiences with **Flutter**.
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
 - 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
 - 💻 Currently fixing a **Homelab** to showcase my self hosted projects.
