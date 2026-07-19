@@ -28,7 +28,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 Resume and Projects ➡️ https://ian-tree.vercel.app/
 
-Homelab ➡️ [COMING SOON] (currently broken)
+Homelab ➡️ [COMING SOON] (Might be a headless server)
 
 ### 💻 Tech Stack
 | Category | Tools & Languages |
