@@ -204,5 +204,3 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B8FEF&height=120&section=footer&text=✿+thanks+for+visiting+✿&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" />
 </div>
 
-
-Trisha Kalbo
