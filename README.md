@@ -188,7 +188,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 
 ---
 
-### 💬 Randomized Dev Quote
+### 💬 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
