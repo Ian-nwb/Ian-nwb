@@ -204,3 +204,4 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B8FEF&height=120&section=footer&text=✿+thanks+for+visiting+✿&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" />
 </div>
 
+01010100 01110010 01101001 01110011 01101000 01100001
