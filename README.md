@@ -205,7 +205,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 </div>
 
 <details>
-<summary>🔍 psst... found something weird in the source. click to decode.</summary>
+<summary>🔍 #Easter egg?????</summary>
 
 <br>
 
