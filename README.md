@@ -204,4 +204,17 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9B8FEF&height=120&section=footer&text=✿+thanks+for+visiting+✿&fontSize=24&fontColor=ffffff&fontAlignY=75&animation=fadeIn" />
 </div>
 
+<details>
+<summary>🔍 psst... found something weird in the source. click to decode.</summary>
+
+<br>
+
 01010100 01110010 01101001 01110011 01101000 01100001
+
+</details>
+
+<!--
+  okay you're really digging now huh
+  01010100 01110010 01101001 01110011 01101000 01100001
+  (same message, just in case you skipped the visible one)
+-->
