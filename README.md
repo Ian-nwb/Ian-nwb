@@ -205,7 +205,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 </div>
 
 <details>
-<summary>🔍 #Easter egg?????</summary>
+<summary>🔍Easter egg?????</summary>
 
 <br>
 
