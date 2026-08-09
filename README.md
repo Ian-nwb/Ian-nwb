@@ -40,7 +40,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 | **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` ,`Valkey`|
-| **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel`, `Supabase`, `Firebase` |
+| **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel`, `Supabase`, `Firebase` ,`	Podman` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP`, `Jest`, `Vitest`, `Playwright`, `Supertest`, `React Testing Library`, `Cypress` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
