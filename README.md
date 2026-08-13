@@ -211,7 +211,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 
 01010100 01110010 01101001 01110011 01101000 01100001
 
-kami na ni trisha 
+kami na ni trisha-nevs
 
 </details>
 
