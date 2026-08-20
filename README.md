@@ -211,12 +211,11 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 
 01010100 01110010 01101001 01110011 01101000 01100001
 
-kami na ni Trisha
+i love tori💚🩵💚🩵
 
 </details>
 
 <!--
-  okay you're really digging now huh
+  secret
   01010100 01110010 01101001 01110011 01101000 01100001
-  (same message, just in case you skipped the visible one)
 -->
