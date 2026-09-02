@@ -148,7 +148,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 
 ---
 
-### ⚽ Stat Card
+### ⚽ Stat Card (Overall)
 
 <div align="center">
   <a href="https://gitfut.com/Ian-nwb">
