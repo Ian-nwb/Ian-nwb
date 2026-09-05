@@ -30,6 +30,14 @@ Resume and Projects ➡️ https://ian-tree.vercel.app/
 
 Homelab ➡️ [COMING SOON] (Currently Fixing)
 
+<details>
+  <summary>Academic bucket</summary>
+  Free C# roadmap with certifications 👇
+  https://roadmap-site-two.vercel.app/
+  
+</details>
+
+
 ### 💻 Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -215,11 +223,7 @@ I love tori💚🩵💚🩵
 
 </details>
 
-<details>
-  Free C# roadmap with certifications 👇
-  https://roadmap-site-two.vercel.app/
-  
-</details>
+
 <!--
   secret
   01010100 01110010 01101001 01110011 01101000 01100001
