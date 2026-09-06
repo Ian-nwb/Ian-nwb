@@ -31,7 +31,7 @@ Resume and Projects ➡️ https://ian-tree.vercel.app/
 Homelab ➡️ [COMING SOON] (Currently Fixing)
 
 <details>
-  <summary>Academic bucket</summary>
+  <summary>Academic Materials</summary>
   Free C# roadmap with certifications 👇
   https://roadmap-site-two.vercel.app/
   
@@ -213,7 +213,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing)
 </div>
 
 <details>
-<summary>🎁🥚Easter egg?🥚🎁</summary>
+<summary>🎁🥚Easter Egg?🥚🎁</summary>
 
 <br>
 
