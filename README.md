@@ -52,7 +52,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
 | **Testing** | `Postman`, `OWASP ZAP`, `Jest`, `Vitest`, `Playwright`, `Supertest`, `React Testing Library`, `Cypress` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
-| **CMS & Site Builders** | `WordPress`, `Wix` |
+| **CMS & Site Builders** | `WordPress`, `Wix` , `Shopify`|
 
 ### 🗺️ Planning To Learn
 | Category | Tools & Languages |
