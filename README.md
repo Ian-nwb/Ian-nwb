@@ -43,7 +43,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 | :--- | :--- |
 | **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `Bash`, `Dart`, `SQL`, `Kotlin`, `C` |
 | **Full Stack** | `Next.js`,`Laravel`, `ASP.NET` |
-| **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` |
+| **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` `Angular`, `SolidJS`|
 | **Backend** | `Elysia`, `Fiber`, `Express` |
 | **Real-Time & Protocols** | `WebSocket`, `Socket.IO`, `SSE (Server-Sent Events)`, `gRPC`, `Protocol Buffers`, `WebRTC`, `MQTT`, `SignalR`, `NATS`, `GraphQL Subscriptions`, `Long Polling`, `HTTP/2` |
 | **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
@@ -187,6 +187,14 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 
 ---
 
+### 🌤️ Weather (Manila)
+
+<div align="center">
+  <img src="https://wttr.in/Manila.png?0&m" alt="Manila weather" />
+</div>
+
+---
+
 ### 🎵 Now Playing
 
 <div align="center">
@@ -206,7 +214,8 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 ---
 
 <div align="center">
-  <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="800px" />
+  <img src="https://webpets-flame.vercel.app/generated/monkey/gray_run_8fps.gif" alt="pet monkey" width="380px" />
+  <img src="https://webpets-flame.vercel.app/generated/dog/akita_run_8fps.gif" alt="pet akita" width="380px" />
 </div>
 
 <div align="center">
