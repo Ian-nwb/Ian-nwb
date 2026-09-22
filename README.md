@@ -19,12 +19,12 @@
 I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
 
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
-- ⚡ Building real-time backends with **Socket.IO**, clustered Node.js, and Redis-backed pub/sub.
+- ⚡ Building real-time backends with **Socket.IO**, **WebSocket**, **SSE**, **gRPC**, clustered Node.js, and Redis-backed pub/sub.
 - 📱 Building cross-platform mobile experiences with **Flutter**.
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
 - 🏛️ Interested in **MVC**, **Feature-based Slicing**, and **Cybersecurity** (Kali Linux).
 - 💻 Currently fixing a **Homelab** to showcase my self hosted projects.
-- 🎛️ Exploring **ESP32**, **Raspberry Pi Pico**, and **Arduino UNO R3**.
+- 🎛️ Exploring **ESP32**, **Raspberry Pi Pico**, and **Arduino UNO R3.
 
 Resume and Projects ➡️ https://ian-tree.vercel.app/
 
@@ -45,6 +45,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 | **Full Stack** | `Next.js`,`Laravel`, `ASP.NET` |
 | **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` |
 | **Backend** | `Elysia`, `Fiber`, `Express` |
+| **Real-Time & Protocols** | `WebSocket`, `Socket.IO`, `SSE (Server-Sent Events)`, `gRPC`, `Protocol Buffers`, `WebRTC`, `MQTT`, `SignalR`, `NATS`, `GraphQL Subscriptions`, `Long Polling`, `HTTP/2` |
 | **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
 | **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` ,`Valkey`|
