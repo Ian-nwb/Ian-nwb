@@ -51,6 +51,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` ,`Valkey`|
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel`, `Supabase`, `Firebase` ,`Podman` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
+| **Architecture & Infrastructure** | `Clean Architecture / Hexagonal`, `Domain-Driven Design (DDD)`, `CQRS & Event Sourcing`, `Microservices`, `API Gateways (Kong / Traefik)` |
 | **Testing** | `Postman`, `OWASP ZAP`, `Jest`, `Vitest`, `Playwright`, `Supertest`, `React Testing Library`, `Cypress` |
 | **Design & Diagramming** | `Figma`, `Draw.io`, `Canva`, `Photoshop`, `Krita` |
 | **CMS & Site Builders** | `WordPress`, `Wix` , `Shopify`|
@@ -58,12 +59,15 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 ### 🗺️ Planning To Learn
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Zig`, `Elixir`,  `Ruby`,`NestJS`,`Actix-Web`|
+| **Languages** | `Zig`, `Elixir`,  `Ruby`|
 | **Full Stack** | `SvelteKit`,`Blazor`,`Django` |
-| **Backend** | `Hono`, `Gin`, `SpringBoot`,`Fastify`,`Flask`,`FastAPI` |
+| **Frontend** | `HTMX`,`VueJs`,`Qwik`,`Astro` |
+| **Backend** | `Hono`, `Gin`, `SpringBoot`,`Fastify`,`Flask`,`FastAPI`,`NestJS`,`Actix-Web`,`Drogon` |
 | **Libraries & ORMs** | `tRPC`, `Drizzle` , `BullMQ`, `Redis Pub/Sub` |
 | **Runtimes** | `Deno` |
 | **Desktop** | `Tauri` |
+| **UI Components & Styling** | `Shadcn UI`,`Radix UI` |
+
 
 ---
 
