@@ -47,7 +47,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 | **Backend** | `Elysia`, `Fiber`, `Express` |
 | **Real-Time & Protocols** | `WebSocket`, `Socket.IO`, `SSE (Server-Sent Events)`, `gRPC`, `Protocol Buffers`, `WebRTC`, `MQTT`, `SignalR`, `NATS`, `GraphQL Subscriptions`, `Long Polling`, `HTTP/2` |
 | **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
-| **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core` |
+| **Runtimes** | `Bun.js`, `Node.js`, `ASP.NET Core`,`Composer` |
 | **Databases & Caching** | `MySQL`, `MongoDB`, `PostgreSQL`, `Redis` ,`Valkey`|
 | **DevOps & OS** | `Docker`, `Kali Linux`, `Git`, `Nginx`, `Apache`, `Vercel`, `Supabase`, `Firebase` ,`Podman` |
 | **Architecture** | `Monorepos`, `RESTful APIs`, `GraphQL` |
