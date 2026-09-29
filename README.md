@@ -43,7 +43,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
 | :--- | :--- |
 | **Languages** | `Go`, `Rust`, `C#`, `Python`, `JavaScript`, `TypeScript`, `HTML/CSS`, `PHP`, `Java`, `C++`, `Bash`, `Dart`, `SQL`, `Kotlin`, `C` |
 | **Full Stack** | `Next.js`,`Laravel`, `ASP.NET` |
-| **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` `Angular`, `SolidJS`|
+| **Frontend** | `React`, `Flutter`, `Tailwind CSS`, `MUI`, `Ionic` `Angular`, `SolidJS`,`Electron`|
 | **Backend** | `Elysia`, `Fiber`, `Express` |
 | **Real-Time & Protocols** | `WebSocket`, `Socket.IO`, `SSE (Server-Sent Events)`, `gRPC`, `Protocol Buffers`, `WebRTC`, `MQTT`, `SignalR`, `NATS`, `GraphQL Subscriptions`, `Long Polling`, `HTTP/2` |
 | **Libraries & ORMs** | `Socket.IO`,`Prisma`,`Mongoose`,`Eloquent ORM`,`GORM`|
