@@ -18,6 +18,8 @@
 
 I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
 
+Oh and Btw eto ata pinunta mo dito → https://github.com/Ian-nwb/NU-CCIT-BSIT-MWA-CAPSTONE-STARTER
+
 - 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
 - ⚡ Building real-time backends with **Socket.IO**, **WebSocket**, **SSE**, **gRPC**, clustered Node.js, and Redis-backed pub/sub.
 - 📱 Building cross-platform mobile experiences with **Flutter**.
