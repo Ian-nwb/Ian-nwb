@@ -29,7 +29,7 @@ I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building 
 
 Resume and Projects ➡️ https://ian-tree.vercel.app/
 
-Homelab ➡️ [COMING SOON] (Currently Fixing, Please donate parts!!!)
+Homelab ➡️ [COMING SOON] (Currently Fixing, In need of monitor)
 
 <details>
   <summary>Academic Materials</summary>
