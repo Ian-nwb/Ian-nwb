@@ -19,7 +19,7 @@
 I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
 
 
-- 🛠️ Currently refining high-performance templates in **Go**, **Rust**, and **Elysia**.
+- 🛠️ Currently refining high-performance templates in **Go**, **C#**, and **Elysia**.
 - ⚡ Building real-time backends with **Socket.IO**, **WebSocket**, **SSE**, **gRPC**, clustered Node.js, and Redis-backed pub/sub.
 - 📱 Building cross-platform mobile experiences with **Flutter**.
 - 🐳 Deep diving into **Docker** and Linux-based server environments.
