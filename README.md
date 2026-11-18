@@ -38,7 +38,12 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, In need of monitor)
   
   NU capstone boilerplate→
   https://github.com/Ian-nwb/NU-CCIT-BSIT-MWA-CAPSTONE-STARTER
-  
+
+  Lazystack techstack planner and maker→
+  https://lazystack-showcase.vercel.app
+
+  Centaim Connect→
+  https://centaim-connect.onrender.com/
 </details>
 
 
