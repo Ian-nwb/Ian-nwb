@@ -210,7 +210,7 @@ Homelab ➡️ [COMING SOON] (Currently Fixing, In need of monitor)
 
 ---
 
-### 🎵 Now Playing
+### 🎵 Now Playing (Spotify)
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31l7ukbwxlj3hgyatqm7gkkpb6ui&redirect=true">
