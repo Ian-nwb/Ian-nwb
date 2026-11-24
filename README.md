@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects.
+I am a **Backend Developer** and **Homelabbing Enthusiast** focused on building efficient, scalable, and secure applications. I enjoy creating modular systems, exploring high-performance runtimes and providing optimized templates/boilerplates for small-scale projects. Sponsor me a macbook for Mac signature!!
 
 
 - 🛠️ Currently refining high-performance templates in **Go**, **C#**, and **Elysia**.
